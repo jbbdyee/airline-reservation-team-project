@@ -13,7 +13,7 @@ BACKEND_URL = os.getenv(
     "BACKEND_URL",
     os.getenv(
         "BACKEND_BASE_URL",
-        "https://aio-01-p1-team5.onrender.com",
+        "https://airline-reservation-team-project.onrender.com",
     ),
 ).rstrip("/")
 # BACKEND_URL = os.getenv("BACKEND_BASE_URL", "http://127.0.0.1:8000").rstrip("/")
