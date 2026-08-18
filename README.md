@@ -246,6 +246,12 @@ Render 로그를 기반으로 문제를 추적하여 기존 Supabase 프로젝�
 
 👉 [상세 문제 분석 및 해결 과정 - 기술 블로그]([블로그_URL](https://velog.io/@jbbdyee/500-%EC%97%90%EB%9F%AC%EC%9D%98-%EC%9B%90%EC%9D%B8%EC%9D%80-%EC%82%AC%EB%9D%BC%EC%A7%84-Supabase%EC%98%80%EB%8B%A4)) 
 
+## 📝 프로젝트 회고
+
+프로젝트를 진행하며 경험한 협업 과정과 이전 프로젝트에서 만든 Plan Template을 실제 팀 프로젝트에 적용한 경험을 정리했습니다.
+
+👉 [두 번째 팀 프로젝트가 덜 어려웠던 이유 - 항공권 실시간 예매 시스템]([회고_블로그_URL](https://velog.io/@jbbdyee/%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EB%91%90-%EB%B2%88%EC%A7%B8%EC%97%94-%EB%8D%9C-%EC%96%B4%EB%A0%A4%EC%9B%A0%EB%8D%98-%EC%9D%B4%EC%9C%A0))
+
 ---
 
 ## 💡 프로젝트를 통해 배운 점
