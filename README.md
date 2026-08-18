@@ -244,7 +244,7 @@ airline-reservation-team-project/
 Render 로그를 기반으로 문제를 추적하여 기존 Supabase 프로젝트가 삭제되어 백엔드의 DB 연결이 실패하고 있음을 확인했습니다.  
 새 Supabase 환경에 데이터베이스를 복구하고 Render 환경변수를 재설정하여 사용자·관리자 서비스를 정상화했습니다.
 
-👉 [상세 문제 분석 및 해결 과정 - 기술 블로그](블로그_URL) 안넣었음!!
+👉 [상세 문제 분석 및 해결 과정 - 기술 블로그]([블로그_URL](https://velog.io/@jbbdyee/500-%EC%97%90%EB%9F%AC%EC%9D%98-%EC%9B%90%EC%9D%B8%EC%9D%80-%EC%82%AC%EB%9D%BC%EC%A7%84-Supabase%EC%98%80%EB%8B%A4)) 
 
 ---
 
